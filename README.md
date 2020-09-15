@@ -17,9 +17,9 @@ When the HP of one of characters (the player or Thanos) becomes 0, the game ends
 SAVE THE WORLD FOR US, AVENGERS!
 
 ### Control
-Move up - Up arrow
-Move down - Down arrow
-Move right - Right arrow
-Move left - Left arrow
-Attack (shoot) - A (Z in keyboard)
-Reset - Select (Backspace in keyboard)
+Move up: Up arrow, 
+Move down: Down arrow,
+Move right: Right arrow, 
+Move left: Left arrow, 
+Attack (shoot): A (Z in keyboard), 
+Reset: Select (Backspace in keyboard)
